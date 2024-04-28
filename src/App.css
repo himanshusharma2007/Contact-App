@@ -1,0 +1,9 @@
+.max-width{
+ /* margin-left: 14px;
+ margin-right: 14px; */
+ max-width: 375px;
+ min-width:300px ;
+}
+.modal-box{
+    box-shadow: 10px 10px 1000ppx rgb(97, 94, 94),-10px -10px 2000px  rgb(97, 94, 94);
+}
