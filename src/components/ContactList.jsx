@@ -30,7 +30,7 @@ const ContactList = (Contactobj) => {
   }
   return (
     <>
-    <div className="lg:w-full w-[320px] bg-yellow rounded-md min-h-[64px] mt-4 text-gray flex justify-between items-center ">
+    <div className="sm:w-full w-[320px] bg-yellow rounded-md min-h-[64px] mt-4 text-gray flex justify-between items-center ">
       <div className="left flex justify-center items-center space-x-2">
         <i className="fi fi-rr-user text-2xl m-2 text-orange"></i>
         <div className="detail">

@@ -3,8 +3,8 @@ import logo from "../images/logos_firebase.svg";
 const Navbar = ({Open,onChange}) => {
 
   return (
-    <div className="lg:w-full lg:pl-60 lg:pr-60">
-      <div className="bg-white flex flex-row justify-center rounded-xl h-[60px] items-center  mt-2 lg:w-full w-[320px]">
+    <div className="sm:w-full sm:px-10 lg:pl-60 lg:pr-60 ">
+      <div className="bg-white flex flex-row justify-center rounded-xl h-[60px] items-center  mt-2 sm:w-full w-[320px]">
         <img className="h-[21px] w-[30px]" src={logo} alt="hello" />
         <div className="text-xl font-semibold">Firebase Contact App</div>
       </div>
